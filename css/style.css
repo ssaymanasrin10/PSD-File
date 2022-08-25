@@ -1,0 +1,79 @@
+*{
+	margin: 0;
+	padding: 0;
+	outline: 0;
+}
+
+body{
+	color: #fff;
+	font-family: 'Gideon Roman', cursive;
+   
+}
+h1{
+	color:#e58f00;
+}
+header{
+	background:linear-gradient(rgb(0,0,0,.9),rgb(0,0,0,.9)),url(../images/header-bg.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	position:relative;
+	background-position: center;
+    
+	padding:30px 0;
+
+}
+.contact{
+	background-color:#e58f00;
+	color: #28282d;
+	font-weight: bold;
+	font-size: 19px;
+
+	
+}
+.contact:hover{
+	background-color: #e58f00;
+	color: #fff;
+}
+.logo{
+	margin-left: 9rem;
+}
+
+.navbar-dark .navbar-nav .show > .nav-link, .navbar-dark .navbar-nav .active > .nav-link, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .nav-link.active {
+    
+    color:#e9a438;
+    font-weight: bold;
+   
+    padding: 6px 14px;
+}
+
+.navbar-dark .navbar-nav .nav-link{
+	color: #fff;
+	font-weight: bold;
+   
+    padding: 6px 14px;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover{
+	color: #e9a438;
+	font-weight: bold;
+   
+    padding: 6px 14px;
+}
+.header-info{
+	margin-top:9rem;
+	margin-left: 7rem;
+}
+.header-infos{
+	margin-top: 9rem;
+	margin-right: 8rem;
+}
+
+
+
+.about-infos{
+
+}
+.about{
+	background-color: #1d1d23;
+
+}
